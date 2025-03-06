@@ -1,4 +1,4 @@
-// Botez Luca, 324CA
+// Copyright @lucabotez
 
 #include "queue.h"
 #include "lib.h"
