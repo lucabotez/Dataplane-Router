@@ -1,3 +1,5 @@
+# Copyright @lucabotez
+
 PROJECT=router
 SOURCES=router.c lib/queue.c lib/list.c lib/lib.c
 LIBRARY=nope
