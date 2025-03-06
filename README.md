@@ -1,9 +1,9 @@
 Copyright @lucabotez
 
-# DataPlane Router
+# Dataplane Router
 
 ## Overview
-**DataPlane Router** is an implementation of the **dataplane component** of a router, handling IPv4 packet forwarding using an **optimized Longest Prefix Match (LPM) search**, ARP handling, and ICMP error generation. The router efficiently processes incoming packets, determines the next hop, and ensures packet delivery through a well-structured forwarding mechanism.
+**Dataplane Router** is an implementation of the **dataplane component** of a router, handling IPv4 packet forwarding using an **optimized Longest Prefix Match (LPM) search**, ARP handling, and ICMP error generation. The router efficiently processes incoming packets, determines the next hop, and ensures packet delivery through a well-structured forwarding mechanism.
 
 ## Features
 - **IPv4 Packet Forwarding** with efficient **Longest Prefix Match (LPM)**.
